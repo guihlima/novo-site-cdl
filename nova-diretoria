@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>About Us - Brand</title>
+    <meta name="twitter:title" content="CDL - Caxias Maranhão">
+    <meta name="description"
+        content="A CDL - Camara de Dirigentes Lojistas de Caxias é sua entidade representativa da classe lojista. Conheça nossos produtos e serviços!">
+    <meta name="twitter:card" content="summary">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="assets/img/banners/banner-Cad-Positivo.jpg">
+    <meta property="og:description"
+        content="A CDL - Câmara de Dirigentes Lojistas de Caxias Maranhão é a entidade representativa da classe lojista. Conheça nossos produtos e serviços.">
+    <meta name="twitter:image" content="assets/img/banners/banner-Cad-Positivo.jpg">
+    <link rel="icon" type="image/png" sizes="512x512" href="assets/img/logos/cdl-icon.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="assets/img/logos/cdl-icon.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="assets/img/logos/cdl-icon.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="assets/img/logos/cdl-icon.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="assets/img/logos/cdl-icon.png">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i,600,600i">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/fonts/simple-line-icons.min.css">
+    <link rel="stylesheet" href="assets/css/Carousel-Noticias/Style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css">
+    <link rel="stylesheet" href="assets/css/News-Cards.css">
+    <link rel="stylesheet" href="assets/css/Responsive-Youtube-Embed.css">
+    <link rel="stylesheet" href="assets/css/smoothproducts.css">
+    <link rel="stylesheet" href="assets/css/untitled.css">
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/dropdown.css">
+
+</head>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-lg fixed-top bg-primary clean-navbar">
+        <div class="container">
+            <!-- <a href="/">
+                <img src="assets/img/logos/cdl_caxias_icon_white.png" style="width: 122px;">
+                <img src="assets/img/logos/logo_spc_brasil_icon_white.png" style="width: 110px;">
+            </a> -->
+            <div class="row justify-content-around justify-content-lg-start ">
+
+                <div class="col-5 col-lg-3 mr-2">
+                    <a class="navbar-brand" href="/" style="width: 7em;">
+                        <img src="assets/img/logos/cdl_caxias_icon_white.png" alt="" class="w-100">
+                    </a>
+                </div>
+                <div class="col-5 col-lg-4 ml-2">
+                    <a href="/" style="width:7em;">
+                        <img src="assets/img/logos/logo_spc_brasil_icon_white.png" alt="" class="w-100">
+                    </a>
+                </div>
+
+            </div>
+            <button data-toggle="collapse" class="navbar-toggler ml-3" data-target="#navcol-1"><span
+                    class="sr-only">Toggle
+                    navigation</span><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse align-items-end" id="navcol-1">
+                <ul class="nav navbar-nav ml-auto">
+                    <!--<li class="nav-item" role="presentation"><a class="nav-link active" href="/index.html">Home</a></li>-->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle active" href="#" id="navbarDropdown" role="button"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Institucional
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="sobre.html">Quem Somos</a>
+                            <a class="dropdown-item" href="diretoria.html">Diretoria</a>
+                            <a class="dropdown-item" href="#">Mensagem da Presidente</a>
+                            <a class="dropdown-item" href="missao.html">Missão e Valores</a>
+                        </div>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <a class="nav-link text-light" href="/conheca-cert-digital.html">Certificação</a>
+                    </li>
+                    <li class="nav-item" role="presentation"><a class="nav-link text-light" href="/">Produtos</a></li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-light" href="#" id="navbarDropdown" role="button"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Publicações
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="noticias.html">Notícias</a>
+                            <a class="dropdown-item" href="/cartilhas.html">Cartilhas</a>
+                            <a class="dropdown-item" href="/">Código do Consumidor</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <button class="btn btn-success">
+                    <a href="https://servicos.spc.org.br/spc/controleacesso/autenticacao/entry.action" target="_blank" class="text-light btn-link nav-link">Associado</a>
+                </button>
+            </div>
+        </div>
+    </nav>
+    <main class="page">
+        <section class="clean-block about-us">
+            <div class="container">
+                <div class="block-heading">
+                    <h2 class="text-center text-info" style="padding: 0px;padding-bottom: 40px;">Histórico</h2>
+                    <p class="text-break text-left text-secondary d-xl-flex justify-content-xl-center align-items-xl-center"
+                        style="height: auto;width: auto;margin: auto;padding: auto;max-width: 1000px;padding-bottom: 50px;">
+                        A Câmara de Dirigentes Lojistas de Caxias foi fundada e constituída em 12 de agosto de 1988, a
+                        partir de discussões das principais lideranças lojistas da nossa cidade, Princesa do
+                        Sertão.<br><br>“Aos doze dias do mês de Agosto do ano
+                        de hum mil, novecentos e oitenta e oito, ás 20:30 horas, no Auditório da Associação e Industria
+                        de Caxias –MA, reuniram-se um número expressivo os empresários da Cidade de Caxias - Estado do
+                        Maranhão, para a fundação do CLUBE DOS
+                        DIRETORES LOJISTAS DE CAXIAS e seu principal Departamento (Serviço de Proteção ao Crédito –
+                        SPC), tendo sido aclamado presidente da mesa diretora dos trabalhos o companheiro empresários
+                        Sr. MANOEL AUGUSTO DE MOURA, que convidou
+                        a mim JOSE RIBAMAR FERREIRA DOS SANTOS – Coordenador da ATE-PI, para secretário, tendo
+                        participado da mesa, também outras importantes lideranças lojistas de Caxias.”(ATA DE
+                        FUNDAÇÃO).<br></p>
+                </div>
+                <h2 class="text-center text-info" style="padding: 0px;padding-bottom: 40px;">Gestão Atual</h2>
+                <div class="row justify-content-center">
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block"
+                                src="assets/img/icones/gestao/Maria_dos_remedios.jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title">Maria dos Remédios E. Souza</h4>
+                                <p class="card-text">Dir. Presidente</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block"
+                                src="assets/img/icones/gestao/Miguel.jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title">Miguel Rodrigues Araújo</h4>
+                                <p class="card-text">Vice-Presidente</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block"
+                                src="assets/img/icones/gestao/Narcisio.jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title">Narciso Amânio Neto</h4>
+                                <p class="card-text">1º Secretário</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-sm-6 col-lg-4 flex-fill mx-auto">
+                        <div class="card flex-fill clean-card text-center"><img class="card-img-top w-100 d-block"
+                                src="assets/img/icones/gestao/Bartolomeu.jpg" style="height: 465px;">
+                            <div class="card-body flex-fill info">
+                                <h4 class="card-title">Bartolomeu Almeida Lima</h4>
+                                <p class="card-text">2º Diretor Secretário</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block"
+                                src="assets/img/icones/gestao/Paulo_cesar.jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title">Paulo César Ferreira da Silva</h4>
+                                <p class="card-text">1º Diretor de SPC</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block"
+                                src="assets/img/icones/gestao/Jean_carlos.jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title">Jean Carlos Souza de Araújo</h4>
+                                <p class="card-text">2º Diretor de SPC</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-sm-6 col-lg-4 flex-fill mx-auto">
+                        <div class="card flex-fill clean-card text-center"><img class="card-img-top w-100 d-block"
+                                src="assets/img/icones/gestao/Silvana.jpg" style="height: 465px;">
+                            <div class="card-body flex-fill info">
+                                <h4 class="card-title">Silvana Fontes Pinheiro</h4>
+                                <p class="card-text">1ª Diretor de Patrimônio e Finanças</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block"
+                                src="assets/img/icones/gestao/Ribamar.jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title">José Ribamar Barcelar Filho</h4>
+                                <p class="card-text">2º Diretor de Patrimônio e Finanças</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block"
+                                src="assets/img/icones/gestao/Agostinho.jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title">Agostinho de Jesus M. e S. Neto</h4>
+                                <p class="card-text">1º Diretor Comercial</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-sm-6 col-lg-4 flex-fill mx-auto">
+                        <div class="card flex-fill clean-card text-center"><img class="card-img-top w-100 d-block"
+                                src="assets/img/icones/gestao/Regina.jpg" style="height: 465px;">
+                            <div class="card-body flex-fill info">
+                                <h4 class="card-title">Regina Célia de Souza Cunha</h4>
+                                <p class="card-text">2º&nbsp; Diretora Comercial</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block"
+                                src="assets/img/icones/gestao/Ana.jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title">Anacélia Pereira da Silva</h4>
+                                <p class="card-text">1º Diretor de Promoções e Eventos</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block"
+                                src="assets/img/icones/gestao/Jose_da_silva.jpg" style="height: 465px;">
+                            <div class="card-body info">
+                                <h4 class="card-title">José da Silva</h4>
+                                <p class="card-text">2º Diretor de Pomoções e Eventos</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-sm-6 col-lg-4 flex-fill mx-auto">
+                        <div class="card flex-fill clean-card text-center"><img class="card-img-top w-100 d-block"
+                                src="assets/img/icones/gestao/Francisca.jpg" style="height: 465px;">
+                            <div class="card-body flex-fill info">
+                                <h4 class="card-title">Francisca Teresa Barros Coelho</h4>
+                                <p class="card-text">1º Diretora de Extensão Social</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block"
+                                src="assets/img/icones/gestao/Getulio.jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title">Getúlio Teixeira e Silva</h4>
+                                <p class="card-text">2º Diretor de Extensão Social<br></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block"
+                                src="assets/img/icones/gestao/antonia.jpg" style="height: 465px;">
+                            <div class="card-body info">
+                                <h4 class="card-title">Antonia Souza Rios</h4>
+                                <p class="card-text">1ª Diretora de Treinamento</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-sm-6 col-lg-4 flex-fill mx-auto">
+                        <div class="card flex-fill clean-card text-center"><img class="card-img-top w-100 d-block"
+                                src="assets/img/icones/gestao/Maria_elzir.jpg" style="height: 465px;">
+                            <div class="card-body flex-fill info">
+                                <h4 class="card-title">Maria Elzir Negreiros de Oliveira</h4>
+                                <p class="card-text">2º Diretora de Treinamento</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block"
+                                src="assets/img/icones/gestao/Marildes.jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title">Marildes Azevedo Barcelar</h4>
+                                <p class="card-text">1º Diretora Conselheira</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block"
+                                src="assets/img/icones/gestao/maria_de_nazare.jpg" style="height: 465px;">
+                            <div class="card-body info">
+                                <h4 class="card-title">Maria de Nazaré Almeida</h4>
+                                <p class="card-text">2º Diretora Conselheira</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <h2 class="text-center text-info" style="padding: 0px;padding-bottom: 40px;">Conselho Consultivo</h2>
+    <div class="row justify-content-center">
+        <div class="col-sm-6 col-lg-4">
+            <div class="card flex-fill clean-card text-center"><img class="card-img-top w-100 d-block"
+                    src="assets/img/icones/gestao/manoel.jpg" style="height: 465px;">
+                <div class="card-body flex-fill info">
+                    <h4 class="card-title">Manoel Augusto de Moura</h4>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-lg-4">
+            <div class="card clean-card text-center"><img class="card-img-top w-100 d-block"
+                    src="assets/img/icones/gestao/Pedro_freitas.jpg" style="height: 465px;">
+                <div class="card-body info" style="height: 95px;">
+                    <h4 class="card-title">Pedro Freitas Amorim</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+    <h2 class="text-center text-info" style="padding: 0px;padding-bottom: 40px;margin-top: 81px;">Conselho Fiscal</h2>
+    <div class="row" style="margin: 25px;">
+        <div class="col-sm-6 col-lg-4 flex-fill mx-auto">
+            <div class="card flex-fill clean-card text-center"><img class="card-img-top w-100 d-block"
+                    src="assets/img/icones/gestao/Jose_ivan.jpg" style="height: 465px;">
+                <div class="card-body flex-fill info">
+                    <h4 class="card-title">José Ivan Ferreira</h4>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-lg-4">
+            <div class="card clean-card text-center"><img class="card-img-top w-100 d-block"
+                    src="assets/img/icones/gestao/Antonio.jpg" style="height: 466px;">
+                <div class="card-body info">
+                    <h4 class="card-title">Antonio Oliveira Costa</h4>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-lg-4">
+            <div class="card clean-card text-center"><img class="card-img-top w-100 d-block"
+                    src="assets/img/icones/gestao/deuselina.jpg" style="height: 465px;">
+                <div class="card-body info">
+                    <h4 class="card-title">Deuzelina Moraes de Oliveira</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="page-footer dark" style="background-color: #0c4496;">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3">
+                    <h5>Acesso Rápido</h5>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="certificacao_digital.html">Certificado</a></li>
+                        <li><a href="noticias.html">Notícias</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3">
+                    <h5>Sobre a CDL Caxias</h5>
+                    <ul>
+                        <li><a href="missao.html">Nossa Missão</a></li>
+                        <li><a href="diretoria.html">Diretoria</a></li>
+                        <li><a href="sobre.html">Sobre</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3">
+                    <h5>Suporte</h5>
+                    <ul>
+                        <li><a href="faq.html">FAQ</a></li>
+                        <li><a href="/formulario-contato.php">Contato</a></li>
+                        <li><a href="webdesign.html">Webdesign</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3">
+                    <h5>Informações Legais</h5>
+                    <ul>
+                        <li><a href="termos.html">Termos de Serviço</a></li>
+                        <li><a href="politicas.html">Politicas da Empresa</a></li>
+                        <li><a href="outros.html">Outros</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-copyright" style="background-color: rgb(12,68,150);">
+            <div class="row">
+                <div class="col">
+                    <p style="padding: 0px;font-size: 12px;"><strong><em>CAMARA DE DIRIGENTES LOJISTAS DE CAXIAS
+                                MA</em></strong><br><strong><em>SERVIÇO DE PROTEÇÃO AO CRÉDITO –
+                                SPC</em></strong><br><strong><em>RUA PRIMEIRO DE AGOSTO, 789 –
+                                CENTRO</em></strong><br><strong><em>CEP: 65.606-070 CAXIAS –
+                                MARANHÃO</em></strong><br><strong><em>FONE: 3521-4150 / 3521-2622</em></strong><br></p>
+                </div>
+            </div>
+            <!-- Start: Social Icons -->
+            <div class="clean-block add-on social-icons" style="color: rgb(43,47,49);padding: 1px;">
+                <div class="row">
+                    <div class="col">
+                        <div class="icons">
+                            <a href="https://www.linkedin.com/company/64737385" target="_blank">
+                                <i class="fa fa-linkedin"></i>
+                            </a>
+                            <a href="https://www.instagram.com/cdlcaxiasma/" target="_blank">
+                                <i class="fa fa-instagram"></i></a>
+                            <a href="https://github.com/guihlima" target="_blank">
+                                <i class="fa fa-github"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End: Social Icons -->
+            <p>© 2022 GuihLima Dev</p>
+        </div>
+    </footer>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
+    <script src="assets/js/smoothproducts.min.js"></script>
+    <script src="assets/js/theme.js"></script>
+    <script src="assets/js/dropdown.js"></script>
+</body>
+
+</html>

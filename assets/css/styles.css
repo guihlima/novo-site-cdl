@@ -1,0 +1,72 @@
+.fs-2{
+    font-size: 1.5em;
+}
+
+.fs-3{
+    font-size: 1.17em;
+}
+
+.fs-4{
+    font-size: 1.125em;
+}
+
+.gap-1{
+    gap: 1em;
+}
+.gap-2{
+    gap: 2em;
+}
+
+.gap-3{
+    gap: 3em;
+}
+
+.gap-4{
+    gap: 4em;
+}
+
+.gap-5{
+    gap: 5em;
+}
+
+.gap-8{
+    gap: 8em;
+}
+
+.mt-mob{
+    margin-top: 0rem;
+}
+
+/* Carrossel Mobile */
+@media (max-width: 575.98px) {
+    /* .mt-mob{
+        margin-top: 5.4rem;
+    } */
+    .swiper .swiper-button-prev,
+    .swiper .swiper-button-next{
+        display: none;
+    }
+    .swiper .swiper-pagination{
+        display: none;
+    }
+}
+
+/* Carrossel MD */
+@media (max-width: 991.98px) {
+
+    .mt-mob{
+        margin-top: 6rem;
+    }
+
+    main .swiper{
+        /* height: 65vh; */
+    }
+    .swiper .swiper-button-prev,
+    .swiper .swiper-button-next{
+        display: none;
+    }
+    .swiper .swiper-pagination{
+        display: none;
+    }
+
+}

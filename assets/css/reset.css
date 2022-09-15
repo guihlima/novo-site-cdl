@@ -1,0 +1,11 @@
+body{
+    scroll-behavior: smooth;
+}
+
+.item-service:hover{
+ background-color: transparent;
+}
+
+.btn:hover a{
+    color: #fff;
+}

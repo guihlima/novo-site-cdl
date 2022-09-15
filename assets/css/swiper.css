@@ -1,0 +1,18 @@
+.swiper {
+    width: 600px;
+    height: 20vh;
+  }
+
+  @media (max-width: 575.98px) {
+
+    .swiper{
+      margin-top: 4.6rem;
+    }
+
+  }
+
+  @media (min-width: 992px){
+    .swiper{
+      height: 65vh;
+    }
+  }

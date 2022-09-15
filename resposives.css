@@ -1,0 +1,12 @@
+@media (max-width: 576px){
+    .sm-w-100{
+        width: 100%;
+        background: red;
+    }
+}
+
+@media (min-width: 992px){
+    .lg-w-55{
+        width: 25%;
+    }
+}
