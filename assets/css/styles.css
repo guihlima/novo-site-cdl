@@ -37,6 +37,11 @@
     margin-top: 0rem;
 }
 
+.bg-nav-item:hover{ 
+    background-color: transparent;
+}
+
+
 /* Carrossel Mobile */
 @media (max-width: 575.98px) {
     /* .mt-mob{
@@ -49,6 +54,15 @@
     .swiper .swiper-pagination{
         display: none;
     }
+
+    .bg-nav-item:hover{ 
+        background-color: transparent;
+    }
+    
+
+    /* .w-xl{
+        width: ;
+    } */
 }
 
 /* Carrossel MD */
