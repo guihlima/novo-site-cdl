@@ -14,32 +14,74 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-light navbar-expand-lg fixed-top bg-primary clean-navbar">
-        <div class="container"><img src="assets/img/logos/cdl_caxias_icon_white.png" style="width: 122px;"><button
-                data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle
-                    navigation</span><span class="navbar-toggler-icon"></span></button>
-            <div class="collapse navbar-collapse" id="navcol-1">
+<nav class="navbar navbar-light navbar-expand-lg fixed-top bg-primary clean-navbar">
+        <div class="container">
+            <div class="row justify-content-around justify-content-lg-start gap-3">
+
+                <div class="col-5 col-lg-3">
+                    <a class="navbar-brand" href="/" style="width: 7em;">
+                        <img src="assets/img/logos/cdl_caxias_icon_white.png" alt="" class="w-100">
+                    </a>
+                </div>
+                <div class="col-5 col-lg-4">
+                    <a class="navbar-brand" href="/" style="width:7em;">
+                        <img src="assets/img/logos/logo_spc_brasil_icon_white.png" alt="" class="w-100">
+                    </a>
+                </div>
+
+            </div>
+            <button data-toggle="collapse" class="navbar-toggler ml-3" data-target="#navcol-1">
+                <span class="sr-only">
+                    Toggle navigation
+                </span>
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse align-items-end ml-3" id="navcol-1">
                 <ul class="nav navbar-nav ml-auto">
-                    <li class="nav-item" role="presentation"><a class="nav-link active" href="/index.html">Home</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link text-light"
-                            href="https://servicos.spc.org.br/spc/controleacesso/autenticacao/entry.action">ASSOCIADOS</a>
-                    </li>
-                    <li class="nav-item" role="presentation"><a class="nav-link text-light"
-                            href="/certificacao_digital.html">CERTIFICAÇÃO DIGITAL</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link text-light"
-                            href="/noticias.html">nOTICIAS</a></li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle text-light" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Publicações</a>
-                        <div class="dropdown-menu mt-lg-4 bg-primary">
-                          <a class="dropdown-item text-light item-service" target="_blank" download href="assets/arquivos/Cartilha-Boas-Práticas-de-Ecommerce.pdf">Cartilha CNCP</a>
+                        <a class="nav-link dropdown-toggle text-light" href="#" id="navbarDropdown" role="button"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Institucional
+                        </a>
+                        <div class="dropdown-menu bg-primary" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item text-light bg-nav-item" href="sobre.html">Quem Somos</a>
+                            <a class="dropdown-item text-light bg-nav-item" href="diretoria.html">Diretoria</a>
+                            <a class="dropdown-item text-light bg-nav-item" href="mensagem.html">Mensagem da Presidente</a>
+                            <a class="dropdown-item text-light bg-nav-item" href="missao.html">Missão e Valores</a>
                         </div>
-                      </li>
-                    <li class="nav-item" role="presentation"><a class="nav-link text-light" href="/sobre.html"
-                            target="_top">sOBRE</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link text-light" href="contate-nos.html"></a>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <a class="nav-link text-light" href="/conheca-cert-digital.html">Certificação</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-light" href="#" id="navbarDropdown" role="button"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Serviços
+                        </a>
+                        <div class="dropdown-menu bg-primary" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item text-light bg-nav-item" href="serv_pess_fisica.html">Pessoa Física</a>
+                            <a class="dropdown-item text-light bg-nav-item" href="serv_pess_juridica.html">Pessoa Jurídica </a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-light" href="#" id="navbarDropdown" role="button"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Publicações
+                        </a>
+                        <div class="dropdown-menu bg-primary" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item text-light bg-nav-item" href="noticias.html">Notícias</a>
+                            <a class="dropdown-item text-light bg-nav-item" href="/cartilhas.html">Cartilhas</a>
+                            <a class="dropdown-item text-light bg-nav-item" href="assets/downloads/Codigo-de-Defesa-do-Consumidor.pdf" target="_blank">Código do Consumidor</a>
+                        </div>
                     </li>
                 </ul>
-            </div><img src="assets/img/logos/logo_spc_brasil_icon_white.png" style="width: 110px;">
+            </div>
+            <div>
+                <button class="btn btn-success ml-3">
+                    <a href="https://servicos.spc.org.br/spc/controleacesso/autenticacao/entry.action" target="_blank"
+                        class="text-light btn-link nav-link">Associado</a>
+                </button>
+            </div>
         </div>
     </nav>
     <main class="page landing-page">
