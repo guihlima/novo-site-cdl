@@ -77,7 +77,31 @@ a i{
     padding: .2rem;
     
 }
+/* 
+.contact-area{
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+    background-color: #13E055;
+    padding: .5em;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    animation-name: btn-zap;
+    animation-duration: .7s;
+    animation-iteration-count: 2;
+} */
 
+/* @keyframes btn-zap{
+    from{
+        transform: translateY(1rem);
+    }
+    to{
+        transform: translateY(-1rem);
+    }
+    
+} */
 
 #btn-zap-certificacao{
     width: 3.5em;
@@ -87,10 +111,12 @@ a i{
     justify-content: center;
     margin: 0 auto;
     background-color: #13E055;
-    border-radius: 99999px;
+    border-radius: 99999px; 
     position: fixed;
     bottom: 1em;
     right: 1em;
+   
+    
 }
 
 #btn-zap-certificacao .uil{
