@@ -59,6 +59,9 @@
         background-color: transparent;
     }
     
+    section{
+        margin-top: 6rem;
+    }
 
     /* .w-xl{
         width: ;
